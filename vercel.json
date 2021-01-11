@@ -1,0 +1,4 @@
+{
+    "routes": "/",
+    "dest": "/api/index.js"
+}
